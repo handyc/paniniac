@@ -15,8 +15,3 @@ this project is still in a preliminary phase and files here are mainly placehold
 ###
 
 
-Pāṇini
-
-
-The Dhatupatha of Panini: an elucidation
-
