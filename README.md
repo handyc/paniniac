@@ -1,3 +1,4 @@
+This project has been put on hold -- I am not sure when I will be able to return to it.
 
 preliminary project files for a complete English -> Sanskrit translation app
 based on Pāṇini's grammar
